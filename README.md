@@ -1,7 +1,7 @@
 ClassifierProject
 =================
 
-Code written as part of AI project
+A Study on the impact of feature discretization for classifiers 
 
 Classifiers Implemented:
 Naive Bayes
